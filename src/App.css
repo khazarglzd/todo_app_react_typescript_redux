@@ -81,3 +81,11 @@
   font-size: 18px;
   transition-duration: 0.3s;
 }
+
+.check-icon {
+  cursor: pointer;
+}
+.check-icon:hover {
+  font-size: 18px;
+  transition-duration: 0.3s;
+}
